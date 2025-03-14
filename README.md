@@ -23,7 +23,8 @@
 - JavaScript
 
 ## 📸 Screenshot
-![Tic-Tac-Toe Screenshot](https://via.placeholder.com/800x450.png?text=Tic-Tac-Toe+Game)
+![Tic-Tac-Toe Screenshot](https://github.com/user-attachments/assets/90ab6a17-0aa8-4dc3-ae1c-50e29e1c588a)
+
 
 ## 📩 Contributing
 Feel free to fork the repository and enhance the game with new features!
