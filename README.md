@@ -28,3 +28,7 @@
 ## 📩 Contributing
 Feel free to fork the repository and enhance the game with new features!
 
+## 🔗 Connect with Me
+- [GitHub](https://github.com/ayonpaul8906)
+- [LinkedIn](https://www.linkedin.com/in/ayon2407s/)
+- Email : ayonpaul8906@gmail.com
